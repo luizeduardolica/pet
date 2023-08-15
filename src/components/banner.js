@@ -3,9 +3,9 @@ import React from 'react';
 function Banner() {
   return (
     <section className="banner">
-      <h2>Welcome to Our Pet Shop!</h2>
-      <p>We provide a wide range of pet services and products.</p>
-      <button>Learn More</button>
+      <h2>Bem Vindo ao nosso Pet Shop</h2>
+      <p>Lorem Ipsum dolor site atmet.</p>
+      <button>Busque Agora!</button>
     </section>
   );
 }

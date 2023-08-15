@@ -1,7 +1,7 @@
 /* src/App.css */
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: Poppins, Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -25,10 +25,11 @@ nav li {
 
 .banner {
   background-image: url('banner.png');
-  background-size: cover;
+  background-size: auto;
+  background-repeat: no-repeat;
   color: #fff;
   text-align: center;
-  padding: 5rem 0;
+  padding: 12rem 0;
 }
 
 .banner h2 {
@@ -64,7 +65,7 @@ footer {
 }
 
 .logo img {
-  width: 100px; /* Adjust the size as needed */
+  width: 200px; /* Adjust the size as needed */
   height: auto;
 }
 

@@ -3,11 +3,11 @@ import React from 'react';
 function Services() {
   return (
     <section className="services">
-      <h2>Our Services</h2>
+      <h2>Nosssos Serviços</h2>
       <ul>
-        <li>Grooming</li>
-        <li>Boarding</li>
-        <li>Training</li>
+        <li>Dog Walker</li>
+        <li>Hospedagem Pet</li>
+        <li>Creche Pet</li>
       </ul>
     </section>
   );
