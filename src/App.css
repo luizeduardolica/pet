@@ -37,6 +37,17 @@ nav li {
   margin-bottom: 1rem;
 }
 
+.buttonbanner {
+  padding: 9px;
+  font-family: Poppins;
+  font-size: 12px;
+  background-color: #333;
+  color:#fff;
+  border: 1px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 .services {
   text-align: center;
   padding: 3rem 0;

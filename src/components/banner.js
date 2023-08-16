@@ -5,7 +5,7 @@ function Banner() {
     <section className="banner">
       <h2>Bem Vindo ao nosso Pet Shop</h2>
       <p>Lorem Ipsum dolor site atmet.</p>
-      <button>Busque Agora!</button>
+      <button className='buttonbanner'>Busque Agora!</button>
     </section>
   );
 }
